@@ -14,11 +14,11 @@ __version__ = "2.0"
 
 
 # installation directory PATHs
-FILE_PATH_LINUX = "/usr/share/sqliv"
-EXEC_PATH_LINUX = "/usr/bin/sqliv"
+FILE_PATH_LINUX = "/data/data/com.termux/files/usr/share/sqliv"
+EXEC_PATH_LINUX = "/data/data/com.termux/files/usr/bin/sqliv"
 
-FILE_PATH_MAC = "/usr/local/bin"
-EXEC_PATH_MAC = "/usr/local/bin"
+FILE_PATH_MAC = "/data/data/com.termux/files/usr/local/bin"
+EXEC_PATH_MAC = "/data/data/com.termux/files/usr/local/bin"
 
 
 def metadata():
